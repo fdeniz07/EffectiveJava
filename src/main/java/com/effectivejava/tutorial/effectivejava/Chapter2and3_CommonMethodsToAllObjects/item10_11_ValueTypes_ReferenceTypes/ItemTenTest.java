@@ -1,4 +1,4 @@
-package com.effectivejava.tutorial.effectivejava.Chapter2and3_CommonMethodsToAllObjects.item10_ValueTypes_ReferenceTypes;
+package com.effectivejava.tutorial.effectivejava.Chapter2and3_CommonMethodsToAllObjects.item10_11_ValueTypes_ReferenceTypes;
 
 public class ItemTenTest {
     public static void main(String[] args) {
