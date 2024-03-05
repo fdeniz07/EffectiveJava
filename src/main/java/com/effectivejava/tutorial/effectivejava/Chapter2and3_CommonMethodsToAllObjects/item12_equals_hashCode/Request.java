@@ -1,4 +1,4 @@
-package com.effectivejava.tutorial.effectivejava.Chapter2and3_CommonMethodsToAllObjects.item12_toString;
+package com.effectivejava.tutorial.effectivejava.Chapter2and3_CommonMethodsToAllObjects.item12_equals_hashCode;
 
 public class Request {
 
