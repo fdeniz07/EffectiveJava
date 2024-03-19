@@ -1,4 +1,4 @@
-package com.effectivejava.tutorial.effectivejava.Chapter3_ClassesAndInterfaces.item20_Inheritance;
+package com.effectivejava.tutorial.effectivejava.Chapter3_ClassesAndInterfaces.item21_abstractVsInterface;
 
 public interface SarkiYazari {
 

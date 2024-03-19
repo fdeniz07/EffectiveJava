@@ -1,6 +1,4 @@
-package com.effectivejava.tutorial.effectivejava.Chapter3_ClassesAndInterfaces.item20_Inheritance;
-
-import java.util.Collection;
+package com.effectivejava.tutorial.effectivejava.Chapter3_ClassesAndInterfaces.item21_abstractVsInterface;
 
 public class TestDrive implements SarkiciSarkiYazari{
 
